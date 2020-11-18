@@ -1,0 +1,257 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .text1{
+      height:500px;
+      margin-left: 140px;
+      font-size:350px;
+      margin-top: auto;
+      
+      
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      
+
+  }
+  
+  
+  
+  li{
+      list-style: none;
+  }
+  
+  
+  .image{
+      width:26px;
+  }
+  .ml6 {
+    position: relative;
+    font-weight: 900;
+    font-size: 2.3em;
+    margin-left:100px;
+  }
+  
+  .ml6 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  
+      margin-left: 157px;
+    
+  }
+  
+  
+  .ml6 .letter {
+    display: inline-block;
+    line-height: 1em;
+   
+  }
+  .waver {
+    font-size: 65pt;
+    text-align: center;
+    animation: waver 0.65s alternate infinite;
+    transform-origin: 50% 90%;
+    animation-timing-function: ease-in-out;
+    float: right;
+    margin-top: -89px;
+  }
+  
+  @keyframes waver {
+    0% {transform: rotate(-25deg);}
+    100% {transform: rotate(30deg);}
+  }
+  .para{
+    margin-left: 341px;
+    font-size: 29px;
+    font-family: cursive;
+  }
+  .profile{
+    margin-left: 384px;
+    font-size: 73px;
+    margin-top: 89px;
+    color: #695050;
+    font-family: emoji;
+  }
+  .aboutpara{
+    padding-left: 150px;
+    font-style: italic;
+  }
+  .table{
+    margin-left: 117px;
+  }
+  .about{
+    margin-left: 150px;
+    font-family: fantasy;
+  }
+  .detailsdiv{
+
+  }
+  .details{
+    font-family: fantasy;
+
+  }
+  .detailspara{
+      padding-bottom:-200px;
+
+  }
+  .image2{
+    width: 132px;
+    margin-left: 103px;
+}
+  
+  .spanname{
+      font-weight: bold;
+      font-style: italic;
+  }
+  .experience{
+    margin-left: 384px;
+    font-size: 73px;
+    margin-top: 89px;
+    color: #695050;
+    font-family: emoji;
+
+  }
+  .experiencepara{
+    margin-left:288px;
+    font-family: cursive;
+  }
+
+  .edu{
+    margin-left: 184px;
+    margin-bottom: 25px;
+    
+    font-style: oblique;
+
+  }
+  .unipara{
+    font-family: fantasy;
+
+  }
+  .detailpara{
+    font-style: italic;
+
+  }
+  .paraedu{
+    padding-right: 272px;
+    padding-left: 185px;
+  }
+ .alledu{
+    padding-left: 182px;
+    padding-right: 237px;
+ }
+ .checked {
+    color: orange;
+  }
+  .abilities{
+    margin-left: 384px;
+    font-size: 73px;
+    margin-top: 89px;
+    color: #695050;
+    font-family: emoji;
+
+  }
+  .abilitiespara{
+    margin-left: 244px;
+    
+    font-family: cursive;
+
+  }
+  
+  .imagecar{
+      widows: 50px;;
+      height:300px;
+  }
+  .carouselclass{
+      padding:40px;
+      margin-left:201px;
+      margin-right: 250px;
+      
+  }
+  .container-fluid{
+      background-color: black;
+  }
+  .img6{
+    width: 80%;
+    margin-bottom:500px;
+    margin-left: 122px;
+    margin-top: 100px;
+    
+  }
+  .img6 {
+    
+    transition: all 2s ease;
+  }
+  .img6:hover {
+    transform:scale(1.2);
+  }
+  
+
+  .page-footer{
+    margin-left:429px;
+    margin-top: 136px;
+    width:100%;
+    left: 0;
+    bottom: 0;
+    
+   
+
+    background-color: #A52A2A;
+   
+    
+  }
+  .footer-copyright{
+    margin-left: -71px;
+  }
+  .icons{
+    margin-left: 412px;
+  }
+  .abilitiespara1{
+    margin-left: 428px;
+    font-family: cursive;
+  }
+  
+  
